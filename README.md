@@ -81,6 +81,6 @@ Sorun bildirimleri ve öneriler için GitHub üzerinden issue açabilirsiniz.
 
 - Pushigo
 - Website: https://pushigo.com
-- GitHub: https://github.com/pushigo
+- GitHub: https://github.com/variants-maker/Woocommerce-iyzico-taksit-popup
 
 
